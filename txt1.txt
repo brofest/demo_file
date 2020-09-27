@@ -6,7 +6,7 @@ over there
 vim update
 
 demo___2
-second demo___2_socend
+local demo here
 
 
 sdn condtroller it is fixed remote
